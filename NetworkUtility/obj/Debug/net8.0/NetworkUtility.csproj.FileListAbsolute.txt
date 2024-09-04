@@ -1,0 +1,14 @@
+C:\Users\dehya.khurraim\source\repos\UnitTests\NetworkUtility\bin\Debug\net8.0\NetworkUtility.exe
+C:\Users\dehya.khurraim\source\repos\UnitTests\NetworkUtility\bin\Debug\net8.0\NetworkUtility.deps.json
+C:\Users\dehya.khurraim\source\repos\UnitTests\NetworkUtility\bin\Debug\net8.0\NetworkUtility.runtimeconfig.json
+C:\Users\dehya.khurraim\source\repos\UnitTests\NetworkUtility\bin\Debug\net8.0\NetworkUtility.dll
+C:\Users\dehya.khurraim\source\repos\UnitTests\NetworkUtility\bin\Debug\net8.0\NetworkUtility.pdb
+C:\Users\dehya.khurraim\source\repos\UnitTests\NetworkUtility\obj\Debug\net8.0\NetworkUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dehya.khurraim\source\repos\UnitTests\NetworkUtility\obj\Debug\net8.0\NetworkUtility.AssemblyInfoInputs.cache
+C:\Users\dehya.khurraim\source\repos\UnitTests\NetworkUtility\obj\Debug\net8.0\NetworkUtility.AssemblyInfo.cs
+C:\Users\dehya.khurraim\source\repos\UnitTests\NetworkUtility\obj\Debug\net8.0\NetworkUtility.csproj.CoreCompileInputs.cache
+C:\Users\dehya.khurraim\source\repos\UnitTests\NetworkUtility\obj\Debug\net8.0\NetworkUtility.dll
+C:\Users\dehya.khurraim\source\repos\UnitTests\NetworkUtility\obj\Debug\net8.0\refint\NetworkUtility.dll
+C:\Users\dehya.khurraim\source\repos\UnitTests\NetworkUtility\obj\Debug\net8.0\NetworkUtility.pdb
+C:\Users\dehya.khurraim\source\repos\UnitTests\NetworkUtility\obj\Debug\net8.0\NetworkUtility.genruntimeconfig.cache
+C:\Users\dehya.khurraim\source\repos\UnitTests\NetworkUtility\obj\Debug\net8.0\ref\NetworkUtility.dll
